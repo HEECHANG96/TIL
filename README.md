@@ -7,4 +7,4 @@
 * [FIRST-WEBSITE](https://github.com/HEECHANG96/FIRST-WEBSITE)
 
 ## Javascript
-*[UP&DOWN-GAME](https://github.com/HEECHANG96/UP-DOWN)
+* [UP&DOWN-GAME](https://github.com/HEECHANG96/UP-DOWN)
