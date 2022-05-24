@@ -10,8 +10,9 @@
 
 
 ## Javascript
+* [Javascript](https://github.com/HEECHANG96/TIL/blob/main/Javascript.md)
 * [UP&DOWN-GAME](https://github.com/HEECHANG96/UP-DOWN)
-* [To Do List](https://github.com/HEECHANG96/TODOLIST)
+* [TO DO LIST](https://github.com/HEECHANG96/TODOLIST)
 
 
 ## My RodeMap
@@ -22,5 +23,5 @@
 * Javascript
 1. 코딩알려주는누나
 
-* 개발자 가이드
-1. 한정수
+* 개발 관련 팁
+1. 비전공자를 위한 개발자 취업 올인원 가이드
