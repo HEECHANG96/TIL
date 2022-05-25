@@ -13,9 +13,7 @@
 * [Javascript](https://github.com/HEECHANG96/TIL/blob/main/Javascript.md)
 * [UP&DOWN-GAME](https://github.com/HEECHANG96/UP-DOWN)
 * [TO DO LIST](https://github.com/HEECHANG96/TODOLIST)
-
-## ALGORITHM
-* [문제풀이]
+* [NEWS-TIMES](https://github.com/HEECHANG96/NEWS-TIMES)
 
 
 ## MY ROADMAP
