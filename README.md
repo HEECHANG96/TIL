@@ -17,15 +17,3 @@
 
 ## React
 * [React](https://github.com/HEECHANG96/TIL/blob/main/README.md)
-
-
-## MY ROADMAP
-* HTML & CSS
-1. 생활코딩
-2. 코딩알려주는누나
-
-* Javascript
-1. 코딩알려주는누나
-
-* 개발 관련 팁
-1. 비전공자를 위한 개발자 취업 올인원 가이드
