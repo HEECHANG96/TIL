@@ -16,4 +16,4 @@
 * [NEWS-TIMES](https://github.com/HEECHANG96/NEWS-TIMES)
 
 ## React
-* [React](https://github.com/HEECHANG96/TIL/blob/main/README.md)
+* [React](https://github.com/HEECHANG96/TIL/blob/main/React.md)
