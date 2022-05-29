@@ -9,3 +9,11 @@
 ## 리펙토링이 필요한 코드는?
 * 중복 코드
 * 긴 함수
+
+## 함수
+* 호이스팅 : 함수 선언문 / 변수 선언을 실행되기 전에 해당 유효범위 또는 실행 컨텍스트 최상단으로 끌어올린다.
+![image](https://user-images.githubusercontent.com/70733630/170868035-d54a0b81-ebb9-4977-971f-310fcba8f86e.png)
+![image](https://user-images.githubusercontent.com/70733630/170868104-bb6492c2-419b-414e-8a8e-42ee7fdf33ff.png)
+
+## 콜백함수
+![image](https://user-images.githubusercontent.com/70733630/170868516-31edc9b4-3dcf-4859-a798-028495d91070.png)
