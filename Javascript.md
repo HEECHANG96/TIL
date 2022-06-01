@@ -17,3 +17,6 @@
 
 ## 콜백함수
 ![image](https://user-images.githubusercontent.com/70733630/170868516-31edc9b4-3dcf-4859-a798-028495d91070.png)
+
+## fetch()
+* API를 호출해주는 함수
