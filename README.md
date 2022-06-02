@@ -15,5 +15,10 @@
 * [TO DO LIST](https://github.com/HEECHANG96/TODOLIST)
 * [NEWS-TIMES](https://github.com/HEECHANG96/NEWS-TIMES)
 
+
+## Typescript
+* [typescript](https://github.com/HEECHANG96/TIL/blob/main/typescript)
+
+
 ## React
 * [React](https://github.com/HEECHANG96/TIL/blob/main/React.md)
