@@ -6,3 +6,6 @@
 ## tsc : 타입스크립트 컴파일
 * tsc를 사용하기 위해 npm i typescript -g
 * tsc index.ts
+![image](https://user-images.githubusercontent.com/70733630/171659768-098ce532-9e5a-4dfb-ba41-f197b534f200.png)
+* 윈도우 보안 이슈로 인해서 오류가 발생
+* npx tsc index.ts로 해결
