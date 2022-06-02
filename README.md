@@ -17,7 +17,7 @@
 
 
 ## Typescript
-* [typescript](https://github.com/HEECHANG96/TIL/blob/main/typescript)
+* [typescript](https://github.com/HEECHANG96/TIL/blob/main/typescript.md)
 
 
 ## React
