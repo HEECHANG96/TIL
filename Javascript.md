@@ -20,3 +20,8 @@
 
 ## fetch()
 * API를 호출해주는 함수
+
+## ...
+* 클래스타입은 new라는 키워드를 이용해 객체 생성
+* let url = new URL(``); => URL()의 기능 : 주소를 분석해준다.
+* ![image](https://user-images.githubusercontent.com/70733630/172049962-ccb335c1-1756-4e83-a06c-7d8e3da73f5d.png)
