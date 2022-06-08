@@ -1,3 +1,14 @@
+## Javascript 불편한점
+1. document.getElementById("");
+2. Javascript와 HTML 파일이 따로놈 => 관리가 힘들다.
+3. 새 페이지 들어갈때마다 새로고침이 된다.
+
+## React의 특징
+1. document.getElementById(""); 쓰지 않기
+2. JSX를 사용해 관련있는 HTML과 JS 합쳐준다.
+3. 새로운 페이지, 메뉴 들어갈때 새로고침이 안 된다.
+4. 코드의 재활용성이 높아짐
+
 ## React : 자바스크립트의 UI 라이브러리
 * React의 파생 기술 React Native를 이용하여 Desktop, Android, iOS에서 동작하는 어플리케이션을 개발할 수 있다.
 1. React는 Component 기반의 UI 라이브러리.
@@ -15,3 +26,5 @@
 * input창에 onChange이벤트를 등록하면 input 값이 바뀔때마다 콜백함수를 작동시킬 수 있다.
 * 렌더링 : 화면에 표시해준다.
 * React는 단방향으로만 데이터가 흐른다.
+* SPA : Single Page Application : 웹사이트에 페이지가 딱 하나다!
+* index.js의 역할 : index.html 파일과 App.js를 연결해준다.
