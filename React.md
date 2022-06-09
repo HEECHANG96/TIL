@@ -41,4 +41,5 @@
 * React는 단방향으로만 데이터가 흐른다.
 * SPA : Single Page Application : 웹사이트에 페이지가 딱 하나다!
 * index.js의 역할 : index.html 파일과 App.js를 연결해준다.
-* React에서는 문자열이 아닌 함수를 받아서 이벤트를 처리한다. => 함수를 콜백형태로 전달해주는 것이 중요하다.
+* React에서는 문자열이 아닌 함수를 받아서 이벤트를 처리한다. => 함수를 콜백형태로 전달해주는 것이 중요하다. (= 함수를 전달하는 형식으로 넣어줘야 함)
+* ![image](https://user-images.githubusercontent.com/70733630/172860964-c649d810-3cdf-4bf8-b760-de23663d7a94.png)
