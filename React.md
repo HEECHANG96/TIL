@@ -27,12 +27,19 @@
 
 
 ## State
+* UI를 바꾸고 싶다면 State를 만들자.
 * 계속해서 변화하는 특정 상태.
 * 상태에 따라 각각 다른 동작을 한다.
+* set함수를 이용해 값을 업데이트 시킬 수 있다.
 
 
 ## <React.StrictMode>
 * React App을 개발하는 도중 발생할 수 있는 잠재적인 문제를 확인하기 위한 설정
+
+
+## Random 함수
+* ![image](https://user-images.githubusercontent.com/70733630/172993573-92b0898e-f751-4c07-a933-5e308f615194.png)
+* 헷갈리는 부분이 많으니, 한번씩 복습하기
 
 
 ## ...
