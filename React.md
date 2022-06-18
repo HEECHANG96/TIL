@@ -58,6 +58,12 @@
 * 최대한 모든 컴포넌트를 stateless로 만들고 몇개의 stateful 컴포넌트에서 데이터를 관리하는 구조가 이상적이라고 리액트는 말한다.
 
 
+
+## Json Server
+* npx json-server --watch db.json --port 포트번호
+
+
+
 ## <React.StrictMode>
 * React App을 개발하는 도중 발생할 수 있는 잠재적인 문제를 확인하기 위한 설정
 
