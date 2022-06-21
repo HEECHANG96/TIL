@@ -63,7 +63,7 @@
 * npx json-server --watch db.json --port 포트번호
 * https://my-json-server.typicode.com/
 * Json Server를 localhost가 아닌 다른 사람들도 데이터를 볼 수 있게 연결해주는 사이트
-* https://my-json-server.typicode.com/<your-username>/<your-repo> => url를 변경해주기 username, repo는 깃허브 이름으로
+* https://my-json-server.typicode.com/ <your-username>/<your-repo> => url를 변경해주기 username, repo는 깃허브 이름으로
 
 
 ## <React.StrictMode>
