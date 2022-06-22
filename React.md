@@ -32,11 +32,13 @@
 * 상태에 따라 각각 다른 동작을 한다.
 * set함수를 이용해 값을 업데이트 시킬 수 있다.
 
+
 ## 클래스 컴포넌트
 1. 많은 개발 문서들이 클래스 컴포넌트로 작성이 됨.
 2. 리액트에서 제공하는 유용한 함수 중에서 lifecycle function이 있는데, 클래스 컴포넌트에서만 동작이 된다.
 3. 2019년부터는 function 컴포넌트에서도 lifecycle 함수가 제공됨. => function 컴포넌트를 사용할 것을 더 추천!!
 * constructor => 생성자 : 컴포넌트가 실행되자마자 호출이 되는 함수
+
 
 ## Lifecycle Function : 상태에 따라서 실행이 가능한 함수
 * state가 업데이트 된 후에 해야하는 작업들은 모두 componentDidUpdate()에 넣는다.
@@ -58,7 +60,6 @@
 * 최대한 모든 컴포넌트를 stateless로 만들고 몇개의 stateful 컴포넌트에서 데이터를 관리하는 구조가 이상적이라고 리액트는 말한다.
 
 
-
 ## Json Server
 * npx json-server --watch db.json --port 포트번호
 * my json server란? : Json Server를 localhost가 아닌 다른 사람들도 데이터를 볼 수 있게 연결해주는 사이트
@@ -66,6 +67,13 @@
 * 바로 위의 url에다가 /<your-username>/<your-repo> 추가해서 기존의 localhost 포트번호의 url를 변경해주기
 
 
+## Redux : 라이브러리
+* state를 저장해두는 창고 = store  
+* React의 단점인 단방향 통신을 보완해준다. => 언제든지 어디서든 store에 저장된 state를 가져다 쓸 수 있다.
+* https://ko.redux.js.org/introduction/getting-started
+* https://react-redux.js.org/introduction/getting-started
+  
+  
 ## <React.StrictMode>
 * React App을 개발하는 도중 발생할 수 있는 잠재적인 문제를 확인하기 위한 설정
 
