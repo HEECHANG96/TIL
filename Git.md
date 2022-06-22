@@ -13,6 +13,16 @@
 * 프로젝트를 하나 이상의 모습으로 관리할 때
 * 여러 작업들이 독립되어 진행될 때
 
+
 ## Merge vs Rebase
 * branch의 사용 내역들을 남겨둘 필요가 있다면 Merge
 * 히스토리를 깔끔하게 만드는게 중요하다면 Rebase
+
+
+## Github
+* Git으로 관리되는 프로젝트의 원격 저장소
+
+## GitHub에서 프로젝트 다운받는 방법
+* Download ZIP : 파일들만 다운받음 => Git 관리내역 제외됨
+* Gitt clone : Git 관리내역 포함 다운로드함
+* 터미널이나 Git Bash에서 대상 폴더 이동 후 git clone (원격 저장소 주소) 입력한다.
