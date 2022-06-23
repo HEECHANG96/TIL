@@ -72,7 +72,16 @@
 * React의 단점인 단방향 통신을 보완해준다. => 언제든지 어디서든 store에 저장된 state를 가져다 쓸 수 있다.
 * https://ko.redux.js.org/introduction/getting-started
 * https://react-redux.js.org/introduction/getting-started
-  
+* Provider가 App을 감싸는 이유? : store을 제공하기 위해서  
+* ![image](https://user-images.githubusercontent.com/70733630/175224743-bd1fd02e-701d-4f4d-a70b-4f9580c2ba03.png)  
+
+## Redux의 단점
+* 동기적 : 코드가 순차적으로 실행된다.
+* 비동기 작업은 리덕스로 할 수 없다. => 이 문제를 해결하기 위해 Redux Middleware를 사용한다.
+
+## Redux Middleware  
+1. redux-saga
+2. redux-thunk : 작은 서비스에 적용하기 쉽다.
   
 ## <React.StrictMode>
 * React App을 개발하는 도중 발생할 수 있는 잠재적인 문제를 확인하기 위한 설정
