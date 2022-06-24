@@ -22,7 +22,17 @@
 ## Github
 * Git으로 관리되는 프로젝트의 원격 저장소
 
+
 ## GitHub에서 프로젝트 다운받는 방법
 * Download ZIP : 파일들만 다운받음 => Git 관리내역 제외됨
 * Gitt clone : Git 관리내역 포함 다운로드함
 * 터미널이나 Git Bash에서 대상 폴더 이동 후 git clone (원격 저장소 주소) 입력한다.
+
+
+## push, pull
+* push : 원격으로 커밋 밀어올리기
+* push를 하기 위해서는 나의 내역이 원격저장소의 최신내역대로 맞춰져 있어야 한다.
+* pull : 원격의 커밋 당겨오기 (다른 동료가 작업한 것들)\
+* git pull --no-rebase : 로컬과 원격의 어긋난 시간선을 한군데로 모아준 다음에 push를 진행한다.
+* git pull --rebase : 원격에 맞춰서 일단은 원격 커밋을 붙인 다음에 로컬에서 한 커밋을 붙여준다.
+* git push --force : 로컬의 내역 강제 push
