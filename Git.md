@@ -36,3 +36,6 @@
 * git pull --no-rebase : 로컬과 원격의 어긋난 시간선을 한군데로 모아준 다음에 push를 진행한다.
 * git pull --rebase : 원격에 맞춰서 일단은 원격 커밋을 붙인 다음에 로컬에서 한 커밋을 붙여준다.
 * git push --force : 로컬의 내역 강제 push
+
+## non-fast-forward 에러 해결하기
+* git push origin master --force : 과거 커밋내역과 상관없이 지금 현재 커밋내용으로 덮어씌운다. => 이 명령어를 통해 에러 해결
