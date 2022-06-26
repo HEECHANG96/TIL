@@ -29,6 +29,15 @@
 3. Query로 쓸 수 있는 인자들
 4. API 응답 내용들 => 어떤 결과를 받아볼 수 있는지
 
+## spread
+![image](https://user-images.githubusercontent.com/70733630/175796052-1141d71d-4834-4973-99f2-3f5bfc60a411.png)
+![image](https://user-images.githubusercontent.com/70733630/175796060-b998bef3-8a88-4f43-bfa3-4ce47a7b2d77.png)
+* person3 : 객체의 주소값만 복사 => 객체는 하나이고 그 객체를 참조하는 변수가 두개 (person과 person3가 같은 객체를 바라보고 있는 것)
+* person2 : 객체를 하나 더 생성함
+* console.log(person == person2) => 결과는 false
+* console.log(person == person3) => 결과는 true
+
+
 ## ...
 * 클래스타입은 new라는 키워드를 이용해 객체 생성
 * let url = new URL(``); => URL()의 기능 : 주소를 분석해준다.
