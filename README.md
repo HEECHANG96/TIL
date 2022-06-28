@@ -18,12 +18,12 @@
 
 
 ## Typescript
-* [typescript](https://github.com/HEECHANG96/TIL/blob/main/typescript.md)
+* [Typescript](https://github.com/HEECHANG96/TIL/blob/main/typescript.md)
 
 
 ## React
 * [React](https://github.com/HEECHANG96/TIL/blob/main/React.md)
-
+* [RockScissorPaper] (https://github.com/HEECHANG96/rock-scissor-paper-game)
 
 ## Git
 * [Git](https://github.com/HEECHANG96/TIL/blob/main/Git.md)
