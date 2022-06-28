@@ -23,7 +23,7 @@
 
 ## React
 * [React](https://github.com/HEECHANG96/TIL/blob/main/React.md)
-* [RockScissorPaper](https://github.com/HEECHANG96/rock-scissor-paper-game)
+* [ROCKSCISSORPAPER] (https://github.com/HEECHANG96/rock-scissor-paper-game)
 
 
 ## Git
