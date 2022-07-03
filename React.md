@@ -67,7 +67,7 @@
 2. useNavigate : 어떤 함수안에서 써야할때
 ### RESTful Routes
 * url 디자인 패턴
-* https://velog.velcdn.com/images/yumjongeun/post/446f623b-efdd-460b-bd4b-6419af3b6136/image.webp
+* [RESTful Routes](https://velog.velcdn.com/images/yumjongeun/post/446f623b-efdd-460b-bd4b-6419af3b6136/image.webp)
 ### HTTP 명령어
 1. GET : 데이터 가져올때
 2. POST : 새로운 데이터 만들때
