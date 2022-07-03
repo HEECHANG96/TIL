@@ -59,6 +59,26 @@
 * 배열에 state가 들어있으면 state 값이 바뀔때마다 호출되는 componentDidUpdate 역할을 한다.
 * 배열에 여러개의 state가 들어있으면 state 중 하나라도 업데이트가 되면 해당 useEffect가 호출이 된다. => 여러개의 state가 동시에 업데이트 되면 한번만 호출된다.
 
+## ROUTE
+* https://reactrouter.com
+* 여러 웹페이지를 만들때 사용
+### ROUTE끼리 쉽게 왔다갔다 하는 법
+1. Link : 함수호출할 것없이 버튼 누르면 바로 가면 될때
+2. useNavigate : 어떤 함수안에서 써야할때
+### RESTful Routes
+* url 디자인 패턴
+* https://velog.velcdn.com/images/yumjongeun/post/446f623b-efdd-460b-bd4b-6419af3b6136/image.webp
+### HTTP 명령어
+1. GET : 데이터 가져올때
+2. POST : 새로운 데이터 만들때
+3. PUT : 기존 데이터 수정할때
+4. DELETE : 데이터 삭제
+### useParams : URL의 파라미터 값을 읽을 수 있다.
+### useSearchParams : 쿼리값을 읽을 수 있다.
+### 쿼리와 파라미터의 차이 : 쿼리는 URL의 경로에 영향을 미치지 않는다. => 파라미터가 달라지면 경로자체가 달라진다.
+### 보호해줘야 하는 페이지 => Redirect
+* Navigate 컴포넌트가 Redirect하게 도와준다. => useNavigate(react hook)와는 다르다.
+
 
 ## stateful, stateless
 * stateful 컴포넌트 : 모든 state를 들고있는 컴포넌트
