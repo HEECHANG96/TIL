@@ -25,6 +25,8 @@
 * [React](https://github.com/HEECHANG96/TIL/blob/main/React.md)
 * [ROCKSCISSORPAPER](https://github.com/HEECHANG96/rock-scissor-paper-game)
 * [H&M WEBSITE](https://github.com/HEECHANG96/hnm-website-project)
+* [NETFLIX](https://github.com/HEECHANG96/netflix-project)
+
 
 ## Git
 * [Git](https://github.com/HEECHANG96/TIL/blob/main/Git.md)
