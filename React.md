@@ -116,6 +116,11 @@
 1. redux-saga
 2. redux-thunk : 작은 서비스에 적용하기 쉽다.
   
+
+## Redux Toolkit
+* Redux 최신 문법 적용
+* https://redux-toolkit.js.org
+  
   
 ## <React.StrictMode>
 * React App을 개발하는 도중 발생할 수 있는 잠재적인 문제를 확인하기 위한 설정
