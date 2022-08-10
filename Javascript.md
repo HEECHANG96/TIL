@@ -42,3 +42,23 @@
 * 클래스타입은 new라는 키워드를 이용해 객체 생성
 * let url = new URL(``); => URL()의 기능 : 주소를 분석해준다.
 * ![image](https://user-images.githubusercontent.com/70733630/172049962-ccb335c1-1756-4e83-a06c-7d8e3da73f5d.png)
+
+## 배열 함수 : 매개변수로 함수를 받음
+1. forEach() : for문 역할
+2. map() : return을 해줘야 한다.
+※ forEach는 반환값이 없다
+※ map은 반드시 배열을 반환한다.
+3. filter() : 조건을 넣고, 조건에 대해 참인 것만 반환함. 결과값 : 배열
+4. some() : 조건에 만족하는 게 말 그대로 몇개가 있으면 true 반환
+5. every() : 모든 값이 조건에 만족하면 true 반환
+6. find() : string타입으로 첫번째로 찾은 한 개의 값만 반환
+7. findIndex() : 인덱스번호를 찾아줌
+
+
+## 대문자, 소문자 찾기
+1. 대문자 : toUpperCase()
+2. 소문자 : toLowerCase()
+
+## 아스키코드 넘버
+1. 대문자 아스키넘버 : 65 ~ 90
+2. 소문자 아스키넘버 : 97 ~ 122
