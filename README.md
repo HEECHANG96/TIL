@@ -29,7 +29,7 @@
 
 
 ## Programmers
-* [Level 1](https://github.com/HEECHANG96/TIL/blob/main/level1.md)
+* [Level 1](https://github.com/HEECHANG96/TIL/tree/main/Level%201)
 
 
 ## Git
