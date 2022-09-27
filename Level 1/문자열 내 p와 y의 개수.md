@@ -1,4 +1,5 @@
 ### for문, if문을 사용해서 거의 10줄 정도의 코드로 문제해결
+### ![image](https://user-images.githubusercontent.com/70733630/192454083-e9b2e594-b36e-4c25-bb2c-d5c32e1432e6.png)
 
 ### 아주 간단하게 1줄로 해결한 풀이가 있었다.
 
