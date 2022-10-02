@@ -28,9 +28,10 @@
 * [NETFLIX](https://github.com/HEECHANG96/netflix-project)
 
 
-## Programmers
+## CodingTest
+1. Programmers
 * [Level 1](https://github.com/HEECHANG96/TIL/tree/main/Level%201)
-
+2. Inflearn
 
 ## Git
 * [Git](https://github.com/HEECHANG96/TIL/blob/main/Git.md)
