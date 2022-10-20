@@ -1,4 +1,4 @@
-# JS 불편한점
+## JS 불편한점
 
 ```
 1. document.getElementById("");
