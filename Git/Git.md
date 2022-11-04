@@ -10,3 +10,4 @@
    -  [GitHub](https://github.com/HEECHANG96/TIL/blob/main/Git/GitHub/GitHub.md)
    -  [push,pull](https://github.com/HEECHANG96/TIL/blob/main/Git/push%26pull/push%26pull.md)
    -  [non-fast-forward](https://github.com/HEECHANG96/TIL/blob/main/Git/non-fast-forward/non-fast-forward.md)
+   -  [gitignore](https://github.com/HEECHANG96/TIL/blob/main/Git/gitignore/gitignore.md)
