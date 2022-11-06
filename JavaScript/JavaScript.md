@@ -6,6 +6,8 @@
   -  [npm](https://github.com/HEECHANG96/TIL/blob/main/JavaScript/npm/npm.md)
   -  [function](https://github.com/HEECHANG96/TIL/blob/main/JavaScript/function/function.md)
   -  [API](https://github.com/HEECHANG96/TIL/blob/main/JavaScript/API/API.md)
+  -  [destructuring](https://github.com/HEECHANG96/TIL/blob/main/JavaScript/destructuring/destructuring.md)
+  -  [spread](https://github.com/HEECHANG96/TIL/blob/main/JavaScript/spread/spread.md)
 
 
 - [JS로 만든 결과물]
