@@ -16,6 +16,7 @@
   -  [JsonServer](https://github.com/HEECHANG96/TIL/blob/main/React/JsonServer/JsonServer.md)
   -  [Redux](https://github.com/HEECHANG96/TIL/blob/main/React/Redux/Redux.md)
   -  [Redux-MiddleWare](https://github.com/HEECHANG96/TIL/blob/main/React/Redux-MiddleWare/Redux-MiddleWare.md)
+  -  [combineReducers](https://github.com/HEECHANG96/TIL/blob/main/React/combineReducers/combineReducers.md)
 
 
 - [REACT로 만든 결과물]
