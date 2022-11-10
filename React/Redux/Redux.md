@@ -24,3 +24,7 @@ useSelector : store에 있는 값을 가져다 쓸 때 사용하는 리액트 �
 ## Provider가 App을 감싸는 이유?
 
 store을 제공하기 위해서
+
+
+- [redux](https://ko.redux.js.org/introduction/getting-started/)
+- [react-redux](https://react-redux.js.org/)
