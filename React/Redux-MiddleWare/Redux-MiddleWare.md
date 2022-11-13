@@ -1,5 +1,6 @@
 # Redux-MiddleWare
 
+Redux의 기능을 향상 및 추가시켜준다.
 
 ## Redux의 단점
 
