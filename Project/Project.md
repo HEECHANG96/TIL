@@ -3,6 +3,7 @@
 
 ## REACT-WEATHERAPI
  - [1](https://velog.io/@heechang96/state-%EA%B0%92%EC%9D%84-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-%EA%B3%BC%EC%A0%95-%EC%98%A4%EB%A5%98-%EB%B0%9C%EC%83%9D)
+ - [2](https://velog.io/@heechang96/Netlify-%EB%B0%B0%ED%8F%AC-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-build-%EC%98%A4%EB%A5%98)
  
  
 ## NETFLIX
