@@ -34,5 +34,5 @@
 * [목차](https://github.com/HEECHANG96/TIL/blob/main/Git/Git.md)
 
 
-## Project
+## Velog
 * [목차](https://github.com/HEECHANG96/TIL/blob/main/Project/Project.md)
