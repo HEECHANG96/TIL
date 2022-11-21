@@ -20,3 +20,10 @@ npm install
 1. packgage.json 파일에 사용하는 라이브러리 목록과 버전이 깔끔하게 정리되어 있다.
 2. 해당 페이지로 가서 cdn을 불러오지 않아도 install로 설치했을 때 내 컴퓨터 환경에 필요한 라이브러리가 설치되고 바로 사용할 수 있다.
 ```
+
+## npm init
+
+```
+npm을 시작하겠다
+init : initialize
+```
