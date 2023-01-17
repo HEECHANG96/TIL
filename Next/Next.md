@@ -7,4 +7,4 @@
   -  [route](https://github.com/HEECHANG96/TIL/blob/main/Next/route/route.md)
   -  [eslint](https://github.com/HEECHANG96/TIL/blob/main/Next/eslint/eslint.md)
   -  [error](https://github.com/HEECHANG96/TIL/blob/main/Next/error/error.md)
-  -  [faker](https://github.com/HEECHANG96/TIL/blob/main/Next/faker/faker.md)
+  -  [dummyData](https://github.com/HEECHANG96/TIL/blob/main/Next/dummyData/dummyData.md)
