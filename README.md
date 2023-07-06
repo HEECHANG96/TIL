@@ -29,17 +29,11 @@
 ## Node.js
 * [목차](https://github.com/HEECHANG96/TIL/blob/main/Node/Node.md)
 
-
 ## CodingTest
 * [목차](https://github.com/HEECHANG96/TIL/blob/main/CodingTest/CodingTest.md)
 
-
 ## Git
 * [목차](https://github.com/HEECHANG96/TIL/blob/main/Git/Git.md)
-
-
-## Velog
-* [목차](https://github.com/HEECHANG96/TIL/blob/main/Project/Project.md)
 
 ## Information
 * [목차](https://github.com/HEECHANG96/TIL/blob/main/Information/Information.md)
